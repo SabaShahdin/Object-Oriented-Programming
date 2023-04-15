@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\bin\Debug\gaming.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\bin\Debug\gaming.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\bin\Debug\gaming.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\obj\Debug\gaming.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\obj\Debug\gaming.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\obj\Debug\gaming.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\obj\Debug\gaming.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\bin\Debug\EZInput.dll
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\bin\Debug\EZInput.xml
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD1\gaming\gaming\obj\Debug\gaming.csproj.CopyComplete
