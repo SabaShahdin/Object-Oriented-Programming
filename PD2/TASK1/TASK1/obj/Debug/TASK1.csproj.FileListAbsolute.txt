@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\bin\Debug\TASK1.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\bin\Debug\TASK1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\bin\Debug\TASK1.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\obj\Debug\TASK1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\obj\Debug\TASK1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\obj\Debug\TASK1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD2\TASK1\TASK1\obj\Debug\TASK1.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\bin\Debug\TASK1.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\bin\Debug\TASK1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\bin\Debug\TASK1.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\obj\Debug\TASK1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\obj\Debug\TASK1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\obj\Debug\TASK1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\PD\PD2\TASK1\TASK1\obj\Debug\TASK1.pdb
