@@ -12,7 +12,7 @@ namespace task2
         static void Main(string[] args)
         {
             List<Admin> products = new List<Admin>();
-            string path = " C:\\Users\\hp\\OneDrive\\Documents\\semester2\\oop(lab)\\PD\\PD2\\Products.txt" ;
+            string path = "C:\\Users\\hp\\OneDrive\\Documents\\semester2\\oop(lab)\\PD\\PD2\\Products.txt" ;
             char choice;
              readData ( path ,  products);
             do

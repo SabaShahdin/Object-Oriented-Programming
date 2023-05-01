@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\obj\Debug\store.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\obj\Debug\store.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\bin\Debug\store.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\bin\Debug\store.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\bin\Debug\store.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\obj\Debug\store.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\store\store\obj\Debug\store.pdb

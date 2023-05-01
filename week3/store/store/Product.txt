@@ -1,0 +1,5 @@
+hd,Groceries,56,23,12
+Apple,Fruit,56,98,12
+fan,Groceries,32,43,23
+door,Groceries,34,1,2
+Sand,Groceries,32,3,21

@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\bin\Debug\ClockType.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\bin\Debug\ClockType.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\bin\Debug\ClockType.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\obj\Debug\ClockType.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\obj\Debug\ClockType.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\obj\Debug\ClockType.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\ClockType\ClockType\obj\Debug\ClockType.pdb

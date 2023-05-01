@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\bin\Debug\Game(Constructor).exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\bin\Debug\Game(Constructor).exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\bin\Debug\Game(Constructor).pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\obj\Debug\Game(Constructor).csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\obj\Debug\Game(Constructor).csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\obj\Debug\Game(Constructor).exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\obj\Debug\Game(Constructor).pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\bin\Debug\EZInput.dll
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\bin\Debug\EZInput.xml
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD3\Game(Constructor)\Game(Constructor)\obj\Debug\Game(Constructor).csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\bin\Debug\task3.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\bin\Debug\task3.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\bin\Debug\task3.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\obj\Debug\task3.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week3\task3\task3\obj\Debug\task3.pdb
