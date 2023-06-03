@@ -1,0 +1,2 @@
+saba,123,Admin
+Ali,234,Customer

@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\bin\Debug\Self Assesment1.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\bin\Debug\Self Assesment1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\bin\Debug\Self Assesment1.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\obj\Debug\Self Assesment1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\obj\Debug\Self Assesment1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\obj\Debug\Self Assesment1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\Self Assesment1\Self Assesment1\obj\Debug\Self Assesment1.pdb

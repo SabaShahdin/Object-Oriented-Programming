@@ -1,0 +1,2 @@
+orange juice,drink,87
+coffee,drink,97

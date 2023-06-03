@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\obj\Debug\self Assesment 2.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\obj\Debug\self Assesment 2.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\bin\Debug\self Assesment 2.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\bin\Debug\self Assesment 2.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\bin\Debug\self Assesment 2.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\obj\Debug\self Assesment 2.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week6\self Assesment 2\self Assesment 2\obj\Debug\self Assesment 2.pdb
