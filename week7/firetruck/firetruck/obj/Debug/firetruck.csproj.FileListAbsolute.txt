@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\obj\Debug\firetruck.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\obj\Debug\firetruck.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\bin\Debug\firetruck.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\bin\Debug\firetruck.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\bin\Debug\firetruck.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\obj\Debug\firetruck.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week7\firetruck\firetruck\obj\Debug\firetruck.pdb
