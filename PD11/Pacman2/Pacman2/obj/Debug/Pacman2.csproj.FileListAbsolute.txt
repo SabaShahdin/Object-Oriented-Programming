@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\obj\Debug\Pacman2.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\obj\Debug\Pacman2.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\bin\Debug\Pacman2.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\bin\Debug\Pacman2.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\bin\Debug\Pacman2.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\bin\Debug\EZInput.dll
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\bin\Debug\EZInput.xml
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\obj\Debug\Pacman2.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\obj\Debug\Pacman2.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD11\Pacman2\Pacman2\obj\Debug\Pacman2.pdb

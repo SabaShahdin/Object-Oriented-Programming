@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\DataGrid\DataGrid\obj\Debug\DataGrid.pdb

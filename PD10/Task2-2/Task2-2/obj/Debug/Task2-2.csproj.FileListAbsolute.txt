@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\bin\Debug\Task2-2.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\bin\Debug\Task2-2.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\bin\Debug\Task2-2.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2-2.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2_2.Form1.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2_2.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2-2.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2-2.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2-2.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\PD10\Task2-2\Task2-2\obj\Debug\Task2-2.pdb

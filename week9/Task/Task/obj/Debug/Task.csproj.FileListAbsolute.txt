@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\bin\Debug\Task.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\bin\Debug\Task.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\bin\Debug\Task.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.AddUserForm.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.EditUserForm.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.userViewForm.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\Task\Task\obj\Debug\Task.pdb

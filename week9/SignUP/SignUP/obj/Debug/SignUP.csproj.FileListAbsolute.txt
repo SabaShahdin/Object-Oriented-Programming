@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\bin\Debug\SignUP.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\bin\Debug\SignUP.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\bin\Debug\SignUP.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.SignInSignUpApplication.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.SignIn.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week9\SignUP\SignUP\obj\Debug\SignUP.SignUp.resources

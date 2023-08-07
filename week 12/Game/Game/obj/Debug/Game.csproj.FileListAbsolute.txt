@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\bin\Debug\Game.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\bin\Debug\Game.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\bin\Debug\Game.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\bin\Debug\EZInput.dll
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\bin\Debug\EZInput.xml
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\lab\week 12\Game\Game\obj\Debug\Game.frmGameEnd.resources
